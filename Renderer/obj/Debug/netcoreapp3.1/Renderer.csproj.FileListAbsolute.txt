@@ -1,0 +1,13 @@
+C:\Users\mendez\Desktop\!Computer Graphics\Course 2021\teachingCG\C#\Renderer\bin\Debug\netcoreapp3.1\Renderer.exe
+C:\Users\mendez\Desktop\!Computer Graphics\Course 2021\teachingCG\C#\Renderer\bin\Debug\netcoreapp3.1\Renderer.deps.json
+C:\Users\mendez\Desktop\!Computer Graphics\Course 2021\teachingCG\C#\Renderer\bin\Debug\netcoreapp3.1\Renderer.runtimeconfig.json
+C:\Users\mendez\Desktop\!Computer Graphics\Course 2021\teachingCG\C#\Renderer\bin\Debug\netcoreapp3.1\Renderer.runtimeconfig.dev.json
+C:\Users\mendez\Desktop\!Computer Graphics\Course 2021\teachingCG\C#\Renderer\bin\Debug\netcoreapp3.1\Renderer.dll
+C:\Users\mendez\Desktop\!Computer Graphics\Course 2021\teachingCG\C#\Renderer\bin\Debug\netcoreapp3.1\Renderer.pdb
+C:\Users\mendez\Desktop\!Computer Graphics\Course 2021\teachingCG\C#\Renderer\obj\Debug\netcoreapp3.1\Renderer.csprojAssemblyReference.cache
+C:\Users\mendez\Desktop\!Computer Graphics\Course 2021\teachingCG\C#\Renderer\obj\Debug\netcoreapp3.1\Renderer.AssemblyInfoInputs.cache
+C:\Users\mendez\Desktop\!Computer Graphics\Course 2021\teachingCG\C#\Renderer\obj\Debug\netcoreapp3.1\Renderer.AssemblyInfo.cs
+C:\Users\mendez\Desktop\!Computer Graphics\Course 2021\teachingCG\C#\Renderer\obj\Debug\netcoreapp3.1\Renderer.csproj.CoreCompileInputs.cache
+C:\Users\mendez\Desktop\!Computer Graphics\Course 2021\teachingCG\C#\Renderer\obj\Debug\netcoreapp3.1\Renderer.dll
+C:\Users\mendez\Desktop\!Computer Graphics\Course 2021\teachingCG\C#\Renderer\obj\Debug\netcoreapp3.1\Renderer.pdb
+C:\Users\mendez\Desktop\!Computer Graphics\Course 2021\teachingCG\C#\Renderer\obj\Debug\netcoreapp3.1\Renderer.genruntimeconfig.cache
